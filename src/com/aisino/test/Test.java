@@ -25,5 +25,9 @@ public class Test {
         }
         return s;
     }
+	
+	public void addSecond() {
+		System.out.println("this is 2222222");
+	}
 
 }
