@@ -29,5 +29,8 @@ public class Test {
 	public void addSecond() {
 		System.out.println("this is 2222222");
 	}
+	public void addThird() {
+		System.out.println("this is 3333333");
+	}
 
 }
